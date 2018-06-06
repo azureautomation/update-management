@@ -2,7 +2,7 @@
 Samples for using the update management capabilities in Azure Automation
 
 ## Location
-SDK Samples can be found under sdk/<version>/samples
+SDK Samples can be found under sdk/{version}/samples
 
 ## Requirements
 These samples uses [LinqPad](https://www.linqpad.net) to provide an easy way to expriment and view the result. In addition to LinqPad, samples use the following nuget packages:
